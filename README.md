@@ -3,6 +3,7 @@
 **Visualizações de Dados - Tamanho Original**
 
 Este repositório contém visualizações de dados em tamanho original como material suplementar para o artigo intitulado *"O Papel do Pré-Processamento e da Visualização de Dados na Interpretabilidade de Modelos de Aprendizado de Máquina: Aplicação na Depressão em Crianças e Adolescentes Brasileiros"*.
+
 *imagens/ - Contém as figuras utilizadas no artigo.*
 
 **Conteúdo**
