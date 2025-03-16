@@ -15,9 +15,9 @@ Este repositório contém visualizações de dados em tamanho original como mate
 - Figura 2b: Correlação entre os atributos numéricos.
 
 **Distribuição de Valores Ausentes**
-- Figura 3a: Valores ausentes por instância com taxa ≥ 50%.
-- Figura 3b: Valores ausentes em atributos nominais.
-- Figura 3c: Valores ausentes em atributos numéricos.
+- Figura 3a: Valores ausentes por instância com taxa ≥ 70%.
+- Figura 3b: Valores ausentes em atributos nominais com taxa ≥ 10%.
+- Figura 3c: Valores ausentes em atributos numéricos com taxa ≥ 10%.
 
 **Distribuição dos Atributos**
 - Figura 4a: Proporção de respostas de atributos binários.
